@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphBuilder.Services", "GraphBuilder.Services\GraphBuilder.Services.csproj", "{A2963502-567D-4FF1-B89A-36AE0CC04E86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphBuilder.App", "GraphBuilder.App\GraphBuilder.App.csproj", "{8953EE25-BA29-401F-9B36-7EA6F68605A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2963502-567D-4FF1-B89A-36AE0CC04E86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2963502-567D-4FF1-B89A-36AE0CC04E86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2963502-567D-4FF1-B89A-36AE0CC04E86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2963502-567D-4FF1-B89A-36AE0CC04E86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8953EE25-BA29-401F-9B36-7EA6F68605A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8953EE25-BA29-401F-9B36-7EA6F68605A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8953EE25-BA29-401F-9B36-7EA6F68605A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8953EE25-BA29-401F-9B36-7EA6F68605A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
